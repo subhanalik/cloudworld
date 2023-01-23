@@ -1,4 +1,6 @@
 *.py
 *.net
+[aeiou]*.java
 
 !sixth.net
+
